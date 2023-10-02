@@ -1,2 +1,2 @@
-# CodeAlpha_VehicleMaintenanceAndMilageTrackerApp
-CodeAlpha_VehicleMaintenanceAndMilageTrackerApp
+#VehicleMaintenanceAndMilageTrackerApp
+VehicleMaintenanceAndMilageTrackerApp
